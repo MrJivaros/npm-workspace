@@ -9,3 +9,11 @@ npm i
 # test function printName
 node packages/ui/index.js
 ```
+
+## Exemple
+
+```js
+import { printName } from '@jivaros/functions'
+
+printName("jivaros")
+```
